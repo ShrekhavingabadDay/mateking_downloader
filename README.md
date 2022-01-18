@@ -1,2 +1,2 @@
-# mateking_downloader
-Mateking videók letöltésére alkalmas programocskák
+# Mateking letöltő
+Mateking videók letöltésére alkalmas programocskák.
